@@ -11,6 +11,6 @@
 ***
 ## Nexter project
 **outline:** Website for a fictional company which sells luxury home across the world (responsive) from Udemy's lecture<br/>
-**demo page:** <br/>
+**demo page:** https://k-e-r.github.io/about-CSS-and-SASS/Nexter/<br/>
 **personal memo:** https://www.notion.so/Nexter-project-memo-04763599a63f4dc9acf735e4fd042bb6<br/>
 ***
